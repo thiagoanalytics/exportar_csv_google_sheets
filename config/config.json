@@ -1,10 +1,10 @@
 {
-    "output_path": "D:/Thiago/TP - Home Office/BI/Python/baixar_base_google_sheets/caminho",
+    "output_path": "caminho que vai salvar os arquivos",
     "sheets": [
         {
-            "spreadsheet_id": "17DLqVCU8MPu0TiqKPCn8pTUQIkas8iwiv8gAmdDWGkk",
-            "range_name": "BD_TON20240903",
-            "file_prefix": "task_metrics"
+            "spreadsheet_id": "id da planilha",
+            "range_name": "nome da sheet",
+            "file_prefix": "nome do arquivo final"
         }
     ]
 }

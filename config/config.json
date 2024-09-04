@@ -1,0 +1,10 @@
+{
+    "output_path": "D:/Thiago/TP - Home Office/BI/Python/baixar_base_google_sheets/caminho",
+    "sheets": [
+        {
+            "spreadsheet_id": "17DLqVCU8MPu0TiqKPCn8pTUQIkas8iwiv8gAmdDWGkk",
+            "range_name": "BD_TON20240903",
+            "file_prefix": "task_metrics"
+        }
+    ]
+}

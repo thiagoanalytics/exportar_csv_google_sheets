@@ -9,6 +9,9 @@ import logging
 import pandas as pd
 import json
 
+enable_venv = os.path.join(os.path.dirname(os.path.abspath(__file__)), r'.venv\Scripts\activate_this.py')
+exec(open(enable_venv).read(), {'__file__': enable_venv})
+
 # Se modificar esses escopos, delete o arquivo token.json.
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
 
